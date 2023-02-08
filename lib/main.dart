@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
             // backgroundImage: NetworkImage(
             //   "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             // ),
-            backgroundImage: AssetImage("assets/images/Soniajpg.jpg"),
+            backgroundImage: AssetImage("assets/images/foto2.jpg"),
           ),
           const SizedBox(
             height: 12.0,
