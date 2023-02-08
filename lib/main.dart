@@ -35,7 +35,7 @@ class HomePage extends StatelessWidget {
             height: 12.0,
           ),
           const Text(
-            "Sonia Justiniano Ayte",
+            "Sonia Xiomara Justiniano Ayte",
             style: TextStyle(
               color: Colors.white,
               fontSize: 20.0,
